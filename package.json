@@ -1,7 +1,7 @@
 {
   "name": "robot-auth-app",
   "private": true,
-  "homepage": "https://github.com/vigneshUI-UX/viki/",
+  "homepage": "https://github.com/vigneshUI-UX/robot-auth-app/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
